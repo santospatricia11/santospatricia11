@@ -1,6 +1,8 @@
 
 
-## Olá eu sou a Patrícia Santos,atualmente estudante do curso Análise e Desenvolvimento de Sistemas
+## Olá, sou a Patrícia Santos,estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
+
+
 - 🌱 Estudado :JavaScript e ReactJS
 - 📫 Contate-me no : patriciasantospb7@gmail.com
 - 😄 Pronouns:ela/dela
