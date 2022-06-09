@@ -1,6 +1,6 @@
 
 
-## Olá, eu sou a Patrícia Santos,estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
+## Olá, eu sou a Patrícia Santos
 
 
 - 🌱 Estudado :JavaScript e ReactJS
