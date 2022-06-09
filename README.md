@@ -1,7 +1,7 @@
 
 
 ## Olá eu sou a Patrícia Santos,atualmente estudante do curso Análise e Desenvolvimento de Sistemas
-- 🌱 JavaScript e React
+- 🌱 Estudado :JavaScript e ReactJS
 - 📫 Contate-me no : patriciasantospb7@gmail.com
 - 😄 Pronouns:ela/dela
 <div align="center"> 
@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santospatricia11&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" width="38" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="paty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="paty-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="paty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
