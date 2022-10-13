@@ -3,7 +3,7 @@
 ## Olá, eu sou a Patrícia Santos
 
 
-- 🌱 Estudado :JavaScript e ReactJS
+- 🌱 Estudando :JavaScript e ReactJS
 - 📫 Contate-me no : patriciasantospb7@gmail.com
 - 😄 Pronouns:ela/dela
 <div align="center"> 
