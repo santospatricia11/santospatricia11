@@ -1,6 +1,6 @@
 ## Olá, eu sou a Patrícia Santos
 
-- 🌱 Estudando :JavaScript e ReactJS
+- 🌱 Estudando : Angular
 - 📫 Contate-me no : patriciasantospb7@gmail.com
 
 <div align="center"> 
